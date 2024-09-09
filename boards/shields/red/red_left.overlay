@@ -6,3 +6,6 @@
 
 #include "red.dtsi"
 
+&left_encoder {
+    status = "okay";
+};
